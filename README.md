@@ -14,6 +14,13 @@
 
 ---
 
+## 🌐 Enlaces del proyecto 
+| Recurso | Enlace |
+|----------|--------|
+| <img src="https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idncaAgFGT.svg?c=1bxid64Mup7aczewSAYMX&t=1755572716016" width="20"> Docuemntación Pruebas | [Docuemntación Pruebas](https://docs.google.com/document/d/17rrNQJAiIROPZEntJ8b6hW9bCDm9eII1ZBpZnoTfaRQ/edit?usp=sharing) |
+
+---
+
 ## 🎯 Objetivo
 
 Implementar pruebas automáticas sobre un sistema web educativo utilizando Selenium WebDriver con Python, aplicando buenas prácticas de documentación y control de versiones.
